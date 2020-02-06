@@ -1,3 +1,0 @@
-" Wellcome to Shellscripting"
-
-"Wellcome to git practice classes"
